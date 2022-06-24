@@ -1,5 +1,5 @@
-export { default as Header } from './Header';
-export { default as Sidebar } from './Sidebar';
-export { default as TextArea } from './TextArea';
-export { default as Botao } from './BtnSearch';
-export { default as Footer } from './Footer';
+export { Header } from './Header/Header';
+export { Sidebar } from './Sidebar/Sidebar';
+export { TextArea } from './TextArea/TextArea';
+export { ButtonSearch } from './BtnSearch/BtnSearch';
+export {  Footer } from './Footer/Footer';
