@@ -1,4 +1,4 @@
-import Chuck from '../../assets/chuckHeader.png';
+import Chuck from '../../assets/chucknorris.png';
 import { useStyles } from './styles';
 
 export function Header() {
@@ -10,7 +10,7 @@ export function Header() {
 
       <div >
         <h1 className={styles.h1}>Chuck Norris</h1>
-        <p className={styles.p}>Uma lenda, varias histórias!</p>
+        <p className={styles.p}>O Mais incrível dos Incríveis</p>
       </div>
     </nav>
   );
