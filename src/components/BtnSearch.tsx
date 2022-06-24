@@ -3,7 +3,6 @@ import Button from '@material-ui/core/Button';
 import { makeStyles } from '@material-ui/core';
 const useStyles = makeStyles({
   btn: {
-    
     margin: '0.6rem 0',
   }
 
